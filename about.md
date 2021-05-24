@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Home"
+title: ""
 ---
-
+<About>
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
